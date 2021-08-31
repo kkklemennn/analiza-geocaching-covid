@@ -2,7 +2,7 @@
 
 ## Dokumenti.
 
-V mapi [results](https://github.com/kkklemennn/Geocaching-COVID19/tree/main/doc/results) se nahajajo vse slike analiz.
+V mapi [results](https://github.com/kkklemennn/analiza-geocaching-covid/tree/master/doc/results/slike) se nahajajo vse slike analiz.
 
 ## Slike z opisi
 
