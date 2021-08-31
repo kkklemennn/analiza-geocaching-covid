@@ -2,7 +2,7 @@
 
 ## Repozitorij diplomske naloge.
 
-V mapi [doc](https://github.com/kkklemennn/analiza-geocaching-covid/tree/master/doc) se nahaja pdf diplomske naloge, ter vse pripadajoče slike z grafi rezultatov.
+V mapi [doc](https://github.com/kkklemennn/analiza-geocaching-covid/tree/master/doc) se nahajajo slike z grafi rezultatov.
 
 V mapi [code](https://github.com/kkklemennn/analiza-geocaching-covid/tree/master/code) se nahaja vsa koda za pridobivanje podatkov, procesiranje podatkov in risanje grafov.
 
